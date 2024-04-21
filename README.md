@@ -28,7 +28,7 @@ npm start
 
 By default, the server will run on port 3000. You can specify a different port by setting the PORT environment variable before starting the server.
 
-Once the server is running, open a web browser and navigate to http://localhost:3000 (or the port you specified). You will see the quiz interface, where you can select your answers for each question and submit them. After submitting your answers, the application will display your score and provide feedback on each question.
+Once the server is running, open a web browser and navigate to http://localhost:3000 (or the port you specified). You will see the quiz interface, where you can select your answers for each question and submit them. After submitting your answers, the application will display your score and provide feedback on each question below the submit button.
 
 Project Structure:
 
