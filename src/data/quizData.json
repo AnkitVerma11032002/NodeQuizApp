@@ -1,0 +1,93 @@
+[
+    {
+      "question": "What does Node.js use to manage asynchronous operations?",
+      "options": [
+        "Promises",
+        "Callbacks",
+        "Async/Await"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "question": "Which module is used to create a web server in Node.js?",
+      "options": [
+        "http",
+        "fs",
+        "url"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "question": "What is the package manager for Node.js?",
+      "options": [
+        "NPM",
+        "Yarn",
+        "Bower"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "question": "What is the purpose of the 'require' function in Node.js?",
+      "options": [
+        "To import modules",
+        "To define routes",
+        "To handle HTTP requests"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "question": "Which Node.js module is used for file I/O operations?",
+      "options": [
+        "fs",
+        "path",
+        "util"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "question": "What does the event loop in Node.js do?",
+      "options": [
+        "Executes synchronous code",
+        "Handles asynchronous operations",
+        "Manages memory allocation"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "question": "Which HTTP method is used to retrieve data from a server in Node.js?",
+      "options": [
+        "GET",
+        "POST",
+        "PUT"
+      ],
+      "answerIndex": 0
+    },
+    {
+      "question": "What is the default port number for HTTP server in Node.js?",
+      "options": [
+        "8080",
+        "3000",
+        "80"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "question": "Which method is used to include additional modules in Node.js?",
+      "options": [
+        "import",
+        "require",
+        "include"
+      ],
+      "answerIndex": 1
+    },
+    {
+      "question": "What is the purpose of the 'exports' object in Node.js?",
+      "options": [
+        "To define variables",
+        "To export functions and objects",
+        "To handle errors"
+      ],
+      "answerIndex": 1
+    }
+  ]
+  
