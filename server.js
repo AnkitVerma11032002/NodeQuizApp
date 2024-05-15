@@ -8,6 +8,7 @@ const PORT = process.env.PORT || 3000;
 
 app.use(bodyParser.json());
 
+
 // Routes
 app.use('/api', quizRoutes);
 
@@ -18,7 +19,7 @@ app.use(express.static(path.join(__dirname, 'public')));
 // Error handling middleware
 app.use((err, req, res, next) => {
   console.error(err.stack);
-  res.status(500).send('Something went wrong!');
+  res.status(500).send('TRY Again! Something went wrong');
 });
 
 // Start server
